@@ -12,6 +12,7 @@ Building intelligent systems, scalable AI backends, and production-ready LLM app
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD600)](https://github.com/Atharva3131)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFD600?style=for-the-badge&logo=linkedin&logoColor=0D0D0D)](https://www.linkedin.com/in/atharva-k-a-4367a2264/)
+[![Portfolio](https://atharvaka.me)
 
 <br/>
 
